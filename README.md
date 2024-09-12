@@ -38,12 +38,12 @@ In addition to its core functionality, the app is responsive, ensuring that it w
     ```bash
     cd weather-app
 
-3. Open the index.html file in your browser to view the app.
+3. Open the `index.html` file in your browser to view the app.
 
 4. Enter the name of any city in the search input field and click the search button (or press Enter) to fetch the weather data for that city.
 ## Deployment
 
-This app is deployed using GitHub Pages. You can view it live *here* : .
+This app is deployed using GitHub Pages. You can view it live *here*: https://codesaadumair.github.io/Weather-App/.
 
 
 ## API Information
